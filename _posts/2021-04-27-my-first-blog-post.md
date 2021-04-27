@@ -17,6 +17,6 @@ theme: minima
 ---
 
 ---
-title: "About me"
+title: "Your awesome title"
 date: 2021-04-24
 ---
