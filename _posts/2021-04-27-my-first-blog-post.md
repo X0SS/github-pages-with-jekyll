@@ -11,8 +11,11 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username: your-github-handle # DO NOT include the @ character, or else the build will fail!
 ---
 
+---
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
+---
+
 ---
 title: "About me"
 date: 2021-04-24
